@@ -6,3 +6,5 @@ This tutorial is about focus and shit.
 This repository is built step by step in the tutorial.
 
 It now includes steps for Github
+
+Adding a new line is fine!
